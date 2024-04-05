@@ -40,8 +40,7 @@ Diseños UX 🎆 realizados para la página:
 
 <p align="center">
   <h3>Mockup Realizado</h3>
-  [![trello.png](https://i.postimg.cc/rmvw6Fj9/trello.png)](https://postimg.cc/Hc9gXmfJ)
-  <img src="https://postimg.cc/Hc9gXmfJ" alt="Mockup">
+  <img src="https://i.postimg.cc/rmvw6Fj9/trello.png" alt="Mockup">
 </p>
 <br>
 
