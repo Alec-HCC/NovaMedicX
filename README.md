@@ -2,7 +2,7 @@
   <img src="https://c1.wallpaperflare.com/preview/767/442/400/stethoscope-medical-health-doctor.jpg" alt="NovaMedicX Background">
 </p>
 <h1 align="center">
-  <b>- NovaMedicX - Primer Avance (Proyecto en desarrollo)</b>
+  <b>- NovaMedicX - Primer Avance (Proyecto en desarrollo) -</b>
 </h1>
 
 ---
@@ -31,17 +31,17 @@ Disfrute del proyecto creado con 💗 por [@TeamNovaDevs](https://github.com/Ale
 
 # Trello
 Aquí compartimos el link hacia Trellos sobre las actividades y los roles de cada uno que hemos creado:
-Click en ➡ [Trello Worspace]([https://trello.com/b/fghGHPvT/proyecto-de-catedra-dawlab](https://trello.com/b/KiC7MuAk/primer-avance)). ✨
+Click en ➡ [Trello Worspace](https://trello.com/b/KiC7MuAk/primer-avance). ✨
 
 ---
 
 # Mockups
-Diseños UI 🎆 realizados para la página:
+Diseños UX 🎆 realizados para la página:
 
 <p align="center">
   <h3>Mockup Realizado</h3>
   <img src="https://trello.com/1/cards/66010a0dc435b32a1ec11d03/attachments/66010a228ce43cdcbd9a23d3/previews/66010a238ce43cdcbd9a244f/download/mock.jpeg"
-  alt="Logo">
+  alt="Mockup">
 </p>
 <br>
 
