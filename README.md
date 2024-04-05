@@ -52,7 +52,8 @@ Diseños UX 🎆 realizados para la página:
 2. Chávez Suriano, Jeniffer Gabriela - CS231697
 3. Martínez Gómez, Marvin René - MG231425
 4. Santos Carrillo, David Santos - SC230146
-5. Valladares Valladares, Javier Stanley - SC230146
+5. Ramírez Hernández, Dustin Alexander - RH230152
+6. Valladares Valladares, Javier Stanley - SC230146
 
 ---
 
