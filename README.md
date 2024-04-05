@@ -1,8 +1,8 @@
-![image](https://github.com/Alec-HCC/NovaMedicX/assets/157811830/b5c3c869-a110-48f5-85b7-656ff5e2fbd3)<p align="center">
+<p align="center">
   <img src="https://c1.wallpaperflare.com/preview/767/442/400/stethoscope-medical-health-doctor.jpg" alt="NovaMedicX Background">
 </p>
 <h1 align="center">
-  <b>- NovaMedicX - Primer Avance ###(Proyecto en desarrollo)</b>
+  <b>- NovaMedicX - Primer Avance (Proyecto en desarrollo)</b>
 </h1>
 
 ---
